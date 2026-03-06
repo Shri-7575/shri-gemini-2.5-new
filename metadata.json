@@ -1,0 +1,7 @@
+{
+  "name": "Remix: AI Creative Studio 3rd Jan shri",
+  "description": "Added Lite Studio",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
